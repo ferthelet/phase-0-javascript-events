@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-* Define a JavaScript event.
-* Identify different types of user events.
+* Define a JavaScript event
+* Identify different types of user events
 
 ## Introduction
 
